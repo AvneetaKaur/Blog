@@ -1,0 +1,20 @@
+#rc{
+    font-size: larger;
+    font-weight: bold;
+}
+#rcr{
+    font-size:xx-large ;
+    margin-top: -80px;
+    color: grey;
+}
+.abc span{
+    color: grey;
+}
+#rcimage{
+    width: 150px;
+    height: 100px;
+}
+#rcsheading{
+    font-size: larger;
+    font-weight: bold;
+}

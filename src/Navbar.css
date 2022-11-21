@@ -1,0 +1,11 @@
+.dnav{
+    display: flex;
+    width: 75%;
+    height: 35px;
+    justify-content: space-evenly;
+}
+.nav{
+    color:black;
+    text-decoration: none;
+    /* justify-content: space-between; */
+}

@@ -1,0 +1,24 @@
+#card1{
+    width: 350px;
+    justify-content:space-between;
+    display: inline-block;
+    /* flex-wrap: wrap; */
+    margin: 10px;
+    background-color: whitesmoke;
+    height: 360px;
+}
+#i{
+    width:350px;
+    height:200px;
+
+}
+#footer{
+    width: 0px;
+    float: left ;
+    margin-left: 100px;
+    margin-top: 0px;
+    /* text-align:right;  */
+}
+#fcontent{
+    color: #767575;
+}
